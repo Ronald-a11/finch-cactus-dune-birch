@@ -1,0 +1,14 @@
+node_modules
+.vercel
+.output
+dist
+.tanstack
+screenshots
+artifacts
+*.log
+.env
+.env.*
+data
+*.pglite
+.project_id
+.node_modules.lock
